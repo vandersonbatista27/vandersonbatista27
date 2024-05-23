@@ -1,8 +1,8 @@
-## Oiii eu sou  Vanderson Batista! 👋
+## Olá!! eu sou  Vanderson Batista 👋
 
 - 🔭 Atualmente eu faço Ciências da Computação
 - 👯 Procuro trabalhar com Análise de Dados
-- ⚡ Curiosidade: Toco violão e canto, sou goleiro de futsal e
+- ⚡ Curiosidades: Toco violão e canto, sou goleiro de futsal e
   sou rede no voleibol por conta da minha altura 
 
 <div style="display: inline_block"><br>
