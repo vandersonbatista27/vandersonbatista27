@@ -1,4 +1,4 @@
-## Olá! Vanderson aqui dando-lhe Boas Vindas!!!! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello!!+Vanderson+here+welcoming+you;;I'm+20+years+old;I'm+from+Brasil)](https://git.io/typing-svg)
 
 Eu sou **Vanderson Bezerra**, um entusiasta da análise de dados e desenvolvimento back. Atualmente, estou me aprofundando nos mundos fascinantes da **Análise de Dados** e **Desenvolvimento Back**. Aqui estão algumas coisas sobre mim:
 
@@ -12,8 +12,8 @@ Eu sou **Vanderson Bezerra**, um entusiasta da análise de dados e desenvolvimen
 - 🚀 Projetos em Python para Análise de Dados
 - 💻 CRUD em Java
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandersonbatista27&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandersonbatista27&show_icons=true&theme=aura)](https://github.com/Alexandrezapsss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandersonbatista27&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
 ## Habilidades
