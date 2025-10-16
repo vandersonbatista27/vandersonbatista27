@@ -1,16 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello!!+Vanderson+here+welcoming+you;;I'm+20+years+old;I'm+from+Brasil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&height=100&lines=Olá!!+Eu+me+chamo+Vanderson+seja+bem-vindo!;)](https://git.io/typing-svg)
 
 Eu sou **Vanderson Bezerra**, um entusiasta da análise de dados e desenvolvimento back. Atualmente, estou me aprofundando nos mundos fascinantes da **Análise de Dados** e **Desenvolvimento Back**. Aqui estão algumas coisas sobre mim:
 
-- 📊 **Estudande de Análises de Dados**: Adoro estudar sobre como explorar dados, descobrir insights ocultos e transformá-los em informações valiosas. Minhas ferramentas favoritas? **Excel** e **Power BI**.
+- 📊 **Analista de Dados**: Adoro trabalhar e estudar com exploração de dados, descobrir insights ocultos e transformá-los em informações valiosas.
 
 - 🐍 **Python para Análise de Dados**: Sou amador em Python e uso-o para manipular, visualizar e modelar dados.
 
-- 💻 **Back-end Development**: Tenho habilidades em **Java**, **PHP**, **SQL** e **C**, ademais, também tenho um breve conhecimento em algumas linguagens Front-end como **HTML**, **CSS** e **JavaScript**.
-
-### O que você pode encontrar nos meus repositórios:
-- 🚀 Projetos em Python para Análise de Dados
-- 💻 CRUD em Java
+- 💻 **Back-end Development**: Tenho habilidades aprofundadas em **Java** e **SQL**, ademais, também tenho um breve conhecimento em algumas linguagens Front-end como **HTML**, **CSS** e **JavaScript**.
+  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandersonbatista27&show_icons=true&theme=aura)](https://github.com/Alexandrezapsss)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandersonbatista27&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,11 +32,3 @@ Eu sou **Vanderson Bezerra**, um entusiasta da análise de dados e desenvolvimen
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vanderson-bezerra-batista-358301249/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:vanderbezerra27@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/vandaik_27/)
-
----- 
-<div align="center">
-    <br>
-        <p align="centre"><b>Visitors Count</b> </p>  
-        <p align="center"><img align="center" src="https://profile-counter.glitch.me/{vandersonbatista27}/count.svg" /> </p> 
-    <br>
-</div>
