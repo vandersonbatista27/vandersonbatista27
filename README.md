@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&height=100&lines=Olá!!+Eu+me+chamo+Vanderson+seja+bem-vindo!;)](https://git.io/typing-svg)
 
-Eu sou **Vanderson Bezerra**, um entusiasta da análise de dados e desenvolvimento back. Atualmente, estou me aprofundando nos mundos fascinantes da **Análise de Dados** e **Desenvolvimento Back**. Aqui estão algumas coisas sobre mim:
+Eu sou **Vanderson Bezerra**, um entusiasta da análise de dados e desenvolvimento back. Atualmente, estou trabalhando e me aprofundando nos mundos fascinantes da **Análise de Dados** e **Desenvolvimento Back-end**, em conjunto com um ERP muito poderoso chamado Sankhya. Aqui estão algumas coisas sobre mim:
 
-- 📊 **Analista de Dados**: Adoro trabalhar e estudar com exploração de dados, descobrir insights ocultos e transformá-los em informações valiosas.
+- 📊 **Analista de Dados**: Gosto de explorar dados, descobrir insights ocultos e transformá-los em informações valiosas.
 
-- 🐍 **Python para Análise de Dados**: Sou amador em Python e uso-o para manipular, visualizar e modelar dados.
+- 🐍 **Python para Análise de Dados**: Sou iniciante em Python e o utilizo para manipular, visualizar e modelar dados.
 
 - 💻 **Back-end Development**: Tenho habilidades aprofundadas em **Java** e **SQL**, ademais, também tenho um breve conhecimento em algumas linguagens Front-end como **HTML**, **CSS** e **JavaScript**.
   
