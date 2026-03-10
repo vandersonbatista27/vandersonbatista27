@@ -9,9 +9,6 @@ Eu sou **Vanderson Bezerra**, um entusiasta da análise de dados e desenvolvimen
 - 💻 **Back-end Development**: Tenho habilidades aprofundadas em **Java** e **SQL**, ademais, também tenho um breve conhecimento em algumas linguagens Front-end como **HTML**, **CSS** e **JavaScript**.
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandersonbatista27&show_icons=true&theme=aura)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandersonbatista27&layout=compact&theme=aura)]
-
 -----
 ## Habilidades
 <div style="display: inline_block">
